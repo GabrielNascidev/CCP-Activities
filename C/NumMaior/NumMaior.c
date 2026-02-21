@@ -18,7 +18,7 @@ int main(){
         printf("O maior numero é: %d" , n2);
     }
 
-
+    return 0;
 
 
 }
